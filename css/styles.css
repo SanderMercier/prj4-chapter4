@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+
+.my-class {
+	color: aqua;
+	background-color: darkkhaki;
+	border: 1px solid blue;
+	text-align: center;
+	padding: 0.5em;
+}
+#my-id {
+	color: blue;
+	background-color: beige;
+	border: 0.5px solid green;
+	text-align: justify;
+	padding:0.2em;
+}
+
+
+.my-container {
+	color:chartreuse;
+	background-color: crimson;
+	border: 1px solid grey;
+	text-align: start;
+	padding: 0.5em;
+}
